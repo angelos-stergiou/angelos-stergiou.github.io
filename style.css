@@ -1,11 +1,15 @@
 /* General Styles */
 body {
-    font-family: Arial, sans-serif;
+    font-family: 'Poppins', Arial, sans-serif;
     text-align: center;
     background-color: #f4f4f4;
     margin: 0;
     padding: 20px;
+    color: #333;
 }
+
+/* Import Google Font */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap');
 
 /* Main Container */
 .container {
@@ -18,9 +22,18 @@ body {
 }
 
 /* Headings */
-h1, h2 {
-    color: #333;
+h1 {
+    font-size: 26px;
+    font-weight: 600;
+    color: #222;
     margin-bottom: 10px;
+}
+
+h2 {
+    font-size: 22px;
+    font-weight: 500;
+    color: #0056b3;
+    margin-top: 15px;
 }
 
 /* About Section */
@@ -36,14 +49,15 @@ h1, h2 {
 .project {
     margin: 20px 0;
     padding: 15px;
-    background: #f8f8f8;
-    border-left: 4px solid #007bff;
+    background: #f9f9f9;
+    border-left: 5px solid #0056b3;
     border-radius: 5px;
 }
 
 .project h2 {
     font-size: 20px;
-    color: #007bff;
+    font-weight: bold;
+    color: #0056b3;
 }
 
 .project p {
@@ -53,7 +67,7 @@ h1, h2 {
 
 /* Contact Section */
 #contact a {
-    color: #007bff;
+    color: #0056b3;
     font-weight: bold;
     text-decoration: none;
 }
@@ -61,4 +75,3 @@ h1, h2 {
 #contact a:hover {
     text-decoration: underline;
 }
-
