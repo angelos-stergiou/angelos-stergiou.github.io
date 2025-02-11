@@ -1,15 +1,15 @@
+/* Import Google Font */
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;600&display=swap');
+
 /* General Styles */
 body {
-    font-family: 'Poppins', Arial, sans-serif;
+    font-family: 'Open Sans', Arial, sans-serif;
     text-align: center;
     background-color: #f4f4f4;
     margin: 0;
     padding: 20px;
     color: #333;
 }
-
-/* Import Google Font */
-@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap');
 
 /* Main Container */
 .container {
@@ -24,14 +24,14 @@ body {
 /* Headings */
 h1 {
     font-size: 26px;
-    font-weight: 600;
+    font-weight: 700;
     color: #222;
     margin-bottom: 10px;
 }
 
 h2 {
     font-size: 22px;
-    font-weight: 500;
+    font-weight: 600;
     color: #0056b3;
     margin-top: 15px;
 }
@@ -71,6 +71,11 @@ h2 {
     font-weight: bold;
     text-decoration: none;
 }
+
+#contact a:hover {
+    text-decoration: underline;
+}
+
 
 #contact a:hover {
     text-decoration: underline;
