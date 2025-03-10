@@ -21,9 +21,9 @@ Let’s connect and explore the power of data!
 - 🔗 [View Project](#)  
 
 ### **🕵️‍♂️ Project 2: Customer Segmentation**  
-- **Technologies:** Python, RFM, K-Means  
-- **Summary:** Customer Segmentation with XYZ.  
-- 🔗 [View Project](#)  
+- **Technologies:** Python, Polars, Pandas, Plotly, Matplotlib
+- **Summary:** Customer Segmentation with advanced RFM & K-Means Clustering.  
+- 🔗 [View Project](https://github.com/angelos-stergiou/rfm-segmentation)  
 
 ## 📞 Contact Me  
 - 📧 [Email Me](mailto:angelosstergiou.ath93@gmail.com)  
