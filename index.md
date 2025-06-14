@@ -1,7 +1,8 @@
 ---
-layout: default
-title: Angelos Stergiou
+layout: page
+title: "Angelos Stergiou"
 ---
+
 
 # Welcome to My Portfolio 🚀
 Hi, I'm Angelos Stergiou, a **Data Scientist** specializing in **statistical analysis**, **machine learning**, and **data-driven** solutions.
